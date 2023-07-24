@@ -1,0 +1,2 @@
+give @s minecraft:chainmail_boots{display:{Name:'[{"text":"NAME Tier 2","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力が上昇する","italic":false,"color":"aqua"}]']},jumpboots:2}
+# give @s minecraft:chainmail_boots{display:{Name:'[{"text":"NAME Tier 2","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力が上昇する","italic":false,"color":"aqua"}]']},jumpboots:2,Damage:165}

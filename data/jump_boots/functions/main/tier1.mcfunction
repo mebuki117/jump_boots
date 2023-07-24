@@ -1,0 +1,1 @@
+execute as @a if data entity @s {Inventory:[{Slot:100b,tag:{jumpboots:3}}]} run effect give @s minecraft:jump_boost 1 4 true
