@@ -1,2 +1,2 @@
-give @s minecraft:chainmail_boots{display:{Name:'[{"text":"NAME Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力が少し上昇する","italic":false,"color":"aqua"}]']},jumpboots:1}
-# give @s minecraft:chainmail_boots{display:{Name:'[{"text":"NAME Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力が少し上昇する","italic":false,"color":"aqua"}]']},jumpboots:1,Damage:135}
+give @s minecraft:leather_boots{display:{Name:'[{"text":"跳躍のブーツ Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力がかなり上昇する","italic":false,"color":"aqua"}]'],color:13870074},jumpboots:3}
+# give @s minecraft:leather_boots{display:{Name:'[{"text":"跳躍のブーツ Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力がかなり上昇する","italic":false,"color":"aqua"}]'],color:13870074}},jumpboots:3,Damage:55}
