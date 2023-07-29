@@ -1,2 +1,1 @@
-give @s minecraft:leather_boots{display:{Name:'[{"text":"跳躍のブーツ Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力がかなり上昇する","italic":false,"color":"aqua"}]'],color:13870074},jumpboots:3}
-# give @s minecraft:leather_boots{display:{Name:'[{"text":"跳躍のブーツ Tier 3","bold":true,"italic":false}]',Lore:['[{"text":"装備すると跳躍力がかなり上昇する","italic":false,"color":"aqua"}]'],color:13870074}},jumpboots:3,Damage:55}
+give @s minecraft:leather_boots{HideFlags:2,display:{Name:'[{"text":"ぴょこのブーツ Tier 3","bold":true,"italic":false}]',Lore:['[{"text":""}]','[{"text":"足に装備したとき:","italic":false,"color":"gray"}]','[{"text":" 防具 +1","italic":false,"color":"blue"}]','[{"text":" 跳躍力上昇 +5","italic":false,"color":"green"}]'],color:16777215},jumpboots:3}
